@@ -1,2 +1,1 @@
-This program can be used for decreasing size of electronic abstracts which written in format .tex.
-If you want have any positive result of using this program, your .tex file must have detailed proof in namespace "proof"
+This simple program is used to eliminate all theorem proofs from [zholus's matan konspekt](https://github.com/artemZholus/matan) ^_^
